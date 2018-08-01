@@ -23,7 +23,7 @@
             "database/factories"
         ],
         "psr-4": {
-            "empleados_descuentos\\": "app/"
+            "CajaChica\\": "app/"
         }
     },
     "autoload-dev": {
